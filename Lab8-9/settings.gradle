@@ -1,0 +1,5 @@
+rootProject.name = 'labproblems'
+include 'labproblems-client'
+include 'labproblems-web'
+include 'labproblems-core'
+
